@@ -35,7 +35,7 @@ Don’t know CSS? No problem, There is no code required. Just follow the video o
 == Installation ==
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
-[Install tutorial]( http://youtu.be/HeA_ktJVFFI “Youtube installation video”)
+[youtube http://youtu.be/HeA_ktJVFFI]
 
 Once activated you can enter your referal key by either using to link which is beside the desactivate link or by using the Instabook submenu which is found in the Plugin menu.  Both will lead you to the administration page.
 
