@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: marie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-13 10:52+0400\n"
+"PO-Revision-Date: 2014-11-12 13:19+0100\n"
+"Last-Translator: marie <pascaline.julien@gmail.com>\n"
+"Language-Team: marie <marie.morel@tableonline.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: /var/www/wp-content/plugins/wp-instabook\n"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:33
+msgid "To use Instabook module you need to sign up for a referal key"
+msgstr ""
+"Pour utiliser le module Instabook vous devez vous inscrire pour obtenir une "
+"clé."
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:38
+msgid "Create an account"
+msgstr "Créer un compte"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:41
+msgid "I already have a key"
+msgstr "J'ai déjà une clé"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:49
+msgid "Referal Key"
+msgstr "Referal Key"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:53
+msgid "Send Email"
+msgstr "Envoyer l'email"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:53
+msgid "Enter manager email"
+msgstr ""
+"Entrer le mail du manager et le nom du restautant pour recevoir la clé par "
+"mail"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:58
+#, php-format
+msgid ""
+"Enter a valid referal key here.  Click <a href=\"%s\">here</a> to create an "
+"account."
+msgstr ""
+"Entrez une clé valide. Cliquez <a href=\"%s\">ici</a> pour créer un compte."
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:68
+msgid "Save Changes"
+msgstr "Enregistrer"
+
+#: /var/www/wp-content/plugins/wp-instabook/admin.php:79
+msgid "Settings"
+msgstr "paramètres"
+
+#: /var/www/wp-content/plugins/wp-instabook/instabook.php:24
+msgid "Hi there!  I'm just a plugin, not much I can do when called directly."
+msgstr ""
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:13
+msgid "Add bookings instabook module to sidebar"
+msgstr "L'ajout du module de réservation sur le site. "
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:37
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:160
+msgid "Widget Title"
+msgstr "Nom du widget"
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:46
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:170
+msgid "Widget Type"
+msgstr "Apparence du Wigdet"
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:50
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:174
+msgid "Button"
+msgstr "Bouton"
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:144
+msgid "Add instabook module for subscription to the newsletters in sidebar"
+msgstr "L'ajout du module d'abonnement aux newsletters sur le site. "
+
+#: /var/www/wp-content/plugins/wp-instabook/widget.php:146
+msgid "Instabook subscription"
+msgstr ""
