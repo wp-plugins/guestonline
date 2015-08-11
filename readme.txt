@@ -11,7 +11,17 @@ GuestOnline Widget allows you to add a powerful, totally free and real-time onli
 
 == Description ==
 **GuestOnline Widget for Restaurants will soon become a must.**
-Add a free real-time reservation calendar on your website in seconds. GuestOnline is a new generation booking engine for retaurants. Easy to configure and amazingly powerful. Give the opportunity to your customers to make reservations directly from your website 24/7 at no cost. Welcome to the unlimited bookings area.    
+GuestOnline Widget for Restaurants will soon become a must. Add a free real-time reservation calendar on your website in seconds. GuestOnline is a new generation booking engine for restaurants. Easy to configure and amazingly powerful. Give the opportunity to your customers to make reservations directly from your website 24/7 at no cost. Welcome to the unlimited bookings aera.    
+
+= Supported languages: =
+  * French
+  * English
+  * Dutch
+  * Finnish
+  * Estonian
+  * Spanish (coming soon)
+If you need more languages, please contact us!
+
 Don’t know CSS? No problem, There is no code required. Just follow the video or documentation to get you quickly up and running. Any suggestion or just want to give a feedback about the plugin ? Don’t hesitate to write to us. Our technology is permanently being developed and implemented in order to offer you a better experience day after day. If you like our work and our approach of the free reservation engine for restaurants, please rate a “ 5 stars”. It will be well appreciated !
 
 = Features: =
@@ -43,18 +53,18 @@ Once your account is created, you will immediatly receive an e-mail with your re
 You need to have a recent version of Wordpress. To be sure you can install your booking engine using the plugin, use the following video and if an error message appears when you add the plugin, then you are using a too old version.
 
 == Screenshots ==
-1. Guestonline module screenshot-1.(png|jpg|jpeg|gif).
-2. Client contact infos screenshot-2.(png|jpg|jpeg|gif).
-3. Guestonline backOffice screenshot-3.(png|jpg|jpeg|gif).
-4. Responsive-module-on-website.png
-5. Responsive-module-on-iPad.png
-6. Responsaive-module-on-smartphone.png
-7. Dashboard-back-office.png
-8. Daily-reservations.png
-9. Notifications-center.png
-10. Table-management-view.png
-11. Settings.png
-12. Openings-settings.png
-13. New-reservation.png
-14. Contact-details.png
+1. Guestonline module
+2. Client contact infos
+3. Guestonline backOffice
+4. Responsive-module-on-website
+5. Responsive-module-on-iPad
+6. Responsaive-module-on-smartphone
+7. Dashboard-back-office
+8. Daily-reservations
+9. Notifications-center
+10. Table-management-view.
+11. Settings
+12. Openings-settings
+13. New-reservation
+14. Contact-details
 
